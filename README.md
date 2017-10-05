@@ -1,3 +1,6 @@
+##Kiosk Platform Cradle
+This is the special version of cradle which is compatible with pouchdb-server
+
 cradle
 ======
 
